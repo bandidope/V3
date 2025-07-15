@@ -1,6 +1,6 @@
 (async () => {
-let canalId = ["120363400979242290@newsletter"];  
-let canalNombre = ["kіᥣᥣᥙᥲ ᑲ᥆𝗍 ᥴһᥲᥒᥱᥣ ⚡"]
+let canalId = ["120363419947391620@newsletter"];  
+let canalNombre = ["𝐂𝐡𝐞𝐥𝐳𝐳𝐲 𝐁𝐨𝐭 𝐒𝐮𝐩𝐫𝐞𝐦𝐞 ⚡"]
   function setupConnection(conn) {
   conn.sendMessage2 = async (chat, content, m, options = {}) => {
     const firstChannel = { 
