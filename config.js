@@ -17,10 +17,7 @@ global.prefix = config.prefix || ".";
 
 // Lista de Owners
 global.owner = [
-  ["50489513153", "Cholito", true],
-  ["31375424024748", "Owner 2", true],
-  ["50489115621", "Owner 3", true],
-  ["56419294384129", "Owner 4", true],
+  ["51936994155", "Junior", true],
 ];
 
 
@@ -57,14 +54,14 @@ global.reto = ["comer 2 cucharadas de arroz sin guarniciones, si se está arrast
 //---------------[ IDs de canales ]----------------
 
 global.ch = {
-ch1: '120363266665814365@newsletter', //AzuraUltra
-ch2: '120363301598733462@newsletter', //SkyUltraPlus 
-ch3: '120363160031023229@newsletter', //Infinity-Wa
-ch4: '120363374372683775@newsletter', //🌹 Pσҽƚιx ✨ Sƚҽʅʅαɾ 😎 Fυɳ
-ch5: '120363343811229130@newsletter', //◟𖥻🗿៹┊My Honest Reaction
-ch6: '120363418194182743@newsletter', //𝐊𝐮𝐫𝐨𝐭𝐚𝐤𝐚-𝐌𝐃
-ch7: '120363307551724976@newsletter', //🪼 FRASES, MEMES Y CONSEJOS PARA TUS ESTADOS 🪼
-ch8: '120363385983031660@newsletter', //🐼 Evolution App
+ch1: '120363419947391620@newsletter', //AzuraUltra
+ch2: '120363419947391620@newsletter', //SkyUltraPlus 
+ch3: '120363419947391620@newsletter', //Infinity-Wa
+ch4: '120363419947391620@newsletter', //🌹 Pσҽƚιx ✨ Sƚҽʅʅαɾ 😎 Fυɳ
+ch5: '120363419947391620@newsletter', //◟𖥻🗿៹┊My Honest Reaction
+ch6: '120363419947391620@newsletter', //𝐊𝐮𝐫𝐨𝐭𝐚𝐤𝐚-𝐌𝐃
+ch7: '120363419947391620@newsletter', //🪼 FRASES, MEMES Y CONSEJOS PARA TUS ESTADOS 🪼
+ch8: '120363419947391620@newsletter', //🐼 Evolution App
 }
 
 //------------------------------------------------
